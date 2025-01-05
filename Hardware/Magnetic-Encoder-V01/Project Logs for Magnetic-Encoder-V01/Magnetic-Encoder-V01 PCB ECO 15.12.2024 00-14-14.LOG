@@ -1,0 +1,26 @@
+Added Component: Designator=C17(Cap-0805)
+Add component (AddParameter): Name = "Part Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Process"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(Cap-0805)
+Add component (AddParameter): Name = "Part Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Process"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT223-3)
+Add component (AddParameter): Name = "Part Number"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Process"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VM Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=+3.3 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=+3.3 Pin=U4-2
+Added Pin To Net: NetName=+VM Pin=U4-3
+Added Pin To Net: NetName=+3.3 Pin=U4-4
+Added Member To Class: ClassName=Magnetic-Encoder-V01 Member=Component C17 Capacitor
+Added Member To Class: ClassName=Magnetic-Encoder-V01 Member=Component C18 Capacitor
+Added Member To Class: ClassName=Magnetic-Encoder-V01 Member=Component U4 Voltage Regulator

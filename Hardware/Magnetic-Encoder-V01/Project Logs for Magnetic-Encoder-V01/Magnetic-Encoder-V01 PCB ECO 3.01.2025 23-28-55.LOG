@@ -1,0 +1,3 @@
+Change component parameters: Designator = "U1" ("U1"); Footprint = "HTSSOP-28"; UniqueID = "\FNIZUKSP" ("\FNIZUKSP")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "DRV8825PWPR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Process"; Value = "SMD"; VariantName = "[No Variations]"

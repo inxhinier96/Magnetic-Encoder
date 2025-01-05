@@ -1,0 +1,8 @@
+Added Component: Designator=J5(DG1285002P14)
+Add component (AddParameter): Name = "Part Number"; Value = "DG128-5.0-02P-14-00AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Process"; Value = "THT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR19_2 Pin=J5-1
+Added Pin To Net: NetName=NetR18_2 Pin=J5-2
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetJ5_2
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetJ5_1
+Added Member To Class: ClassName=Magnetic-Encoder-V01 Member=Component J5 Klemens
